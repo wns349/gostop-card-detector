@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.idea/*
+.idea_modules/*
+__pycache__/
+*.py[cod]
+*$py.class
+*.swp
+
+out/
+
